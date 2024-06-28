@@ -13,3 +13,4 @@
 .pnp.*
 .yarn
 .vscode/*
+.next/
